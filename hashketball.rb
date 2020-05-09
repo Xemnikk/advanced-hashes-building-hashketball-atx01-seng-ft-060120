@@ -4,4 +4,4 @@ def game_hash
     :home => "h",
     :away => "a"
   }
-  
+end 
