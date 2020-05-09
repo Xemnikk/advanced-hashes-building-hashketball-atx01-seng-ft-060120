@@ -15,4 +15,4 @@ def game_hash
        :players => []
     }
   }
-  }
+  
