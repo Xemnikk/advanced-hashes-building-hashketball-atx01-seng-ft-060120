@@ -1,7 +1,12 @@
 # Write your code here!
 def game_hash
   hash = {
-    :home => "h",
+    :home => {
+      :team_name =>
+      :colors =>
+      :players =>
+    }
+    
     :away => "a"
   }
 end 
