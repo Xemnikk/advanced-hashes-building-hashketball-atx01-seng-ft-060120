@@ -18,4 +18,5 @@ def game_hash
        :players => ["l","a"]
     }
   }
+  }
   
